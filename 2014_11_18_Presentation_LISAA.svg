@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="LISAA.svg">
+   sodipodi:docname="2014_11_18_Presentation_LISAA.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.58035714"
-     inkscape:cx="2076.9506"
-     inkscape:cy="9177.6232"
+     inkscape:zoom="0.23816375"
+     inkscape:cx="3208.9898"
+     inkscape:cy="8546.9061"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      width="3543.31px"
      fit-margin-top="0"
@@ -2651,6 +2651,63 @@
            x="-3103.0229"
            sodipodi:role="line">A quoi sert l'ADN ?</tspan></text>
     </g>
+    <g
+       transform="matrix(0.97614791,0.21710658,-0.21710658,0.97614791,-3223.6897,-15023.933)"
+       style="stroke:none;display:inline;opacity:0.528"
+       id="g3511">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3703"
+         style="opacity:0.98000004;fill:#d7eef4;stroke:none"
+         d="m 4421.7544,-821.5658 c -33.3193,0.1109 -68.7946,7.1366 -107.088,23.3007 -27.1862,17.1409 -52.5081,32.0609 -76.1608,44.9881 29.0571,39.8645 56.8175,80.6278 85.4004,116.20483 40.6266,-10.62933 78.3374,-14.20033 110.8925,-3.34866 67.5188,22.50629 114.263,62.90911 157.5639,104.72114 30.6225,29.5693 59.5255,59.83092 92.8341,84.96203 29.4589,22.22656 62.3542,40.44955 102.9504,50.59861 166.7538,41.68843 338.3646,-74.58015 482.9128,-110.71724 4.8383,-1.20954 9.6256,-2.05306 14.3415,-2.54217 -7.8128,-3.46199 -15.7158,-6.76022 -23.7564,-9.83571 -51.8707,-19.84013 -105.9828,-39.04909 -161.0002,-47.47778 -61.7019,11.42176 -124.3611,27.79289 -184.9494,18.49667 -0.01,0 -0.012,0 -0.017,0 -8.7919,-1.34963 -17.5331,-3.22574 -26.2285,-5.75063 -37.4876,-10.88514 -72.6533,-30.8552 -106.8601,-55.10436 -113.007,-80.11033 -215.6307,-207.06753 -357.6087,-208.49553 -1.0703,-0.011 -2.1511,-0.01 -3.2259,0 z m -707.0121,-57.3836 c -77.0003,0.1717 -154.3492,44.6398 -231.6734,69.0953 27.2639,38.7784 58.8257,70.0395 103.6867,79.9128 9.9197,2.1832 19.7966,3.153 29.6298,3.0857 27.469,-13.49 51.0923,-18.5518 72.0407,-17.4273 l 0,0 c 41.0873,2.2056 71.9128,28.1979 101.4425,60.9252 0.01,0.01 0.012,0.011 0.017,0.017 43.9082,48.66818 84.9597,112.24762 152.5847,134.78925 72.8151,24.27177 159.6338,-6.2159 244.5772,-39.483 -35.9046,-36.85734 -72.3355,-72.42175 -112.2426,-99.39125 -81.5633,16.577 -128.6386,-7.693 -165.0852,-43.9362 -32.0756,-31.8977 -55.9201,-73.0576 -87.8023,-103.7919 -23.7727,-22.9169 -52.0136,-40.0448 -91.4666,-43.1999 -5.2359,-0.4187 -10.4697,-0.6078 -15.709,-0.5961 z m -488.4014,-11.179 c 15.7828,94.6963 114.1953,185.4253 223.6084,202.1312 -22.9249,-30.8425 -41.2106,-67.5825 -57.7167,-106.2114 -55.4344,-0.7799 -110.7705,-24.8224 -165.8917,-95.9198 z m 2109.5177,352.31382 c 25.3006,22.49126 54.8023,51.40622 91.2913,90.04649 10.1865,7.3584 18.7028,12.29025 25.2993,12.29025 3.1123,0 -14.5064,-37.08299 -16.4804,-40.04404 -26.2121,-39.31816 -60.3376,-49.37184 -100.1102,-62.2927 z" />
+      <g
+         id="g3660"
+         style="fill:#ffd5d5"
+         transform="matrix(0.56103729,0,0,0.56103729,1745.4668,-301.53064)">
+        <g
+           transform="translate(0,0.00747888)"
+           id="g3628"
+           style="opacity:0.98000003999999996;fill:#ffd5d5;stroke:none">
+          <path
+             id="path3509-4"
+             transform="translate(1156.5929,1451.1378)"
+             style="fill:#ffd5d5;stroke:none"
+             d="m 4695.4375,-2103.2812 c -96.4514,0.6347 -195.4321,17.6236 -291.1875,43.2812 -50.0883,13.4211 -98.9941,32.4367 -147.4375,53.5625 60.9706,43.222 123.6504,78.8169 190.4687,98.2187 15.509,4.5033 31.1003,7.8441 46.7813,10.25 70.4066,-23.1756 141.754,-38.7456 214.5937,-40.7187 38.5018,-1.0429 76.906,1.9044 115.0626,7.75 98.0637,15.0233 194.5137,49.2616 286.9687,84.625 14.3535,5.4901 28.46,11.3815 42.4063,17.5625 106.8616,47.3614 202.9949,113.4962 307.125,175.5938 -19.1216,-20.8488 -37.2264,-40.3328 -54.5,-58.625 -65.0273,-68.8618 -117.6277,-120.3816 -162.7188,-160.4688 -104.869,-93.2313 -169.2054,-124.6185 -255.0938,-168.1875 -90.0038,-45.6567 -189.7946,-63.5195 -292.4687,-62.8437 z m -1819.625,-478 c -107.8521,0.1099 -218.0999,88.4489 -331.3125,179 56.8272,54.7813 99.3281,128.1452 156.5,185 34.7726,-6.2997 69.6394,-7.5287 104.5625,-1.6563 69.2929,11.6517 131.5564,40.6834 189.6875,79.9687 71.1253,48.0669 136.0393,111.498 200.0312,177.1876 139.1518,142.8431 273.9171,296.4352 458.4376,326.4687 147.0639,23.9369 288.634,-20.2754 429.5,-81.7813 -59.3756,-44.7984 -110.9121,-98.7277 -165.5,-151.4374 -77.1411,18.8361 -157.2638,23.7641 -243.0313,2.2812 -88.5008,-22.1676 -163.4306,-93.342 -235.4375,-182.9688 -50.9484,-63.4153 -100.425,-136.0675 -152.2188,-207.125 -99.6203,-136.672 -207.7714,-267.4655 -351.3124,-315.3124 -19.89,-6.6301 -39.8549,-9.6456 -59.9063,-9.625 z M 1542.875,-2797.125 c -2.7462,-0.1727 -0.8962,3.2288 7.2188,11.3438 105.1824,105.1823 157.6496,290.62 228.5312,456.5 29.4214,68.8531 62.0117,134.3393 102.875,189.3124 43.3565,58.3272 96.0163,104.8304 164.0625,130.9688 144.2029,55.3923 291.9142,-41.8971 441.8125,-122.6875 -52.6389,-58.3415 -107.5707,-104.6933 -180.8125,-108.625 -42.3766,19.092 -85.1894,30.8083 -128.4687,31.0937 -17.5062,0.1155 -35.0898,-1.6445 -52.75,-5.5312 -79.9691,-17.6 -136.2139,-73.3088 -184.8126,-142.4375 -73.2287,-104.1633 -129.0819,-238.8034 -222.4687,-319.4375 -41.8524,-36.1372 -161.9558,-119.6678 -175.1875,-120.5 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         style="opacity:0.98000003999999996;fill:#800000;stroke:none;display:inline"
+         id="g3660-2"
+         transform="translate(-17.813965,-1377.6133)">
+        <g
+           transform="translate(0,0.00747888)"
+           id="g3628-4"
+           style="opacity:0.98000003999999996;fill:#800000;stroke:none" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+       x="1160.8539"
+       y="-14249.919"
+       id="text4689"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="1160.8539"
+         y="-14249.919"
+         id="tspan4695"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:200%;writing-mode:lr-tb;text-anchor:middle;font-family:Purisa;-inkscape-font-specification:Purisa Bold">Adrien Leger, Post doctorant, INSERM U1089 &quot;Laboratoire de thérapie génique de Nantes&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="1172.4906"
+         y="-14177.919"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:200%;writing-mode:lr-tb;text-anchor:middle;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+         id="tspan4707">LISAA 18 Novembre 2014 </tspan><tspan
+         sodipodi:role="line"
+         x="1160.8539"
+         y="-14105.919"
+         id="tspan4693"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:200%;writing-mode:lr-tb;text-anchor:middle;font-family:Purisa;-inkscape-font-specification:Purisa Bold" /></text>
   </g>
   <g
      transform="translate(-1195.1351,-50.259154)"
@@ -2743,6 +2800,40 @@
        width="1285.8367"
        id="rect7672-4-8"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:0.10000001;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.92000002;color:#000000;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3465"
+       width="2101.447"
+       height="1182.0776"
+       x="3413.2212"
+       y="-1148.51" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+       x="4478.6641"
+       y="-830.09351"
+       id="text3467"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         x="4478.6641"
+         y="-830.09351"
+         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:200%;writing-mode:lr-tb;text-anchor:middle;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+         id="tspan3475">Améliorer génétiquement l’homme</tspan><tspan
+         sodipodi:role="line"
+         x="4478.6641"
+         y="-650.09351"
+         style="font-size:90px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:200%;writing-mode:lr-tb;text-anchor:middle;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
+         id="tspan3491">utopie ou/et réalité</tspan><tspan
+         sodipodi:role="line"
+         x="4478.6641"
+         y="-523.76147"
+         id="tspan3471"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:200%;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;font-family:Purisa;-inkscape-font-specification:Purisa Bold">De la correction des maladies genetiques par thérapie génique</tspan><tspan
+         sodipodi:role="line"
+         x="4494.1797"
+         y="-427.76151"
+         id="tspan3473"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:200%;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;font-family:Purisa;-inkscape-font-specification:Purisa Bold">à l'amelioration génétique à but non thérapeutique  </tspan></text>
   </g>
   <!--
    <foreignObject
