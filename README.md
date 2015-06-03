@@ -3,13 +3,13 @@
 
 ## Purpose
 
-Repository for svg presentations created with inkscape and sozy.
+Repository for svg presentations created with inkscape and sozy and ipython/jupyter notebook slideshows
 Presentations can be open with any up to date web browser
 
 ## Visualization
 
 * [2015_04_29_Improve_methodology_retraite_AGTI](http://nbviewer.ipython.org/format/slides/github/a-slide/presentation_repo/blob/master/2015_04_29_Improve_methodology_retraite_AGTI/2015_04_29_Improve_methodology_retraite_AGTI.ipynb#/)
-* [2015_06_04_NGS_for AAV_Gene_therapy_QC_Illumina_users_day.ipynb](http://nbviewer.ipython.org/format/slides/github/a-slide/presentation_repo/blob/master/2015_06_04_NGS_for AAV_Gene_therapy_QC_Illumina_users_day/2015_06_04_NGS_for AAV_Gene_therapy_QC_Illumina_users_day.ipynb#/)
+* [2015_06_04_NGS_for AAV_Gene_therapy_QC_Illumina_users_day](http://nbviewer.ipython.org/format/slides/github/a-slide/presentation_repo/blob/master/2015_06_04_NGS_for%20AAV_Gene_therapy_QC_Illumina_users_day/2015_06_04_NGS_for%20AAV_Gene_therapy_QC_Illumina_users_day.ipynb#/)
 
 
 ## Licence
