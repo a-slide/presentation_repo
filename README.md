@@ -8,13 +8,13 @@ Presentations can be open with any up to date web browser
 
 ## Visualization
 
-[2015_04_29_Improve_methodology_retraite_AGTI](http://nbviewer.ipython.org/format/slides/github/a-slide/presentation_repo/blob/master/2015_04_29_Improve_methodology_retraite_AGTI/2015_04_29_Improve_methodology_retraite_AGTI.ipynb#/)
-
+* [2015_04_29_Improve_methodology_retraite_AGTI](http://nbviewer.ipython.org/format/slides/github/a-slide/presentation_repo/blob/master/2015_04_29_Improve_methodology_retraite_AGTI/2015_04_29_Improve_methodology_retraite_AGTI.ipynb#/)
+* [2015_06_04_NGS_for AAV_Gene_therapy_QC_Illumina_users_day.ipynb](http://nbviewer.ipython.org/format/slides/github/a-slide/presentation_repo/blob/master/2015_06_04_NGS_for AAV_Gene_therapy_QC_Illumina_users_day/2015_06_04_NGS_for AAV_Gene_therapy_QC_Illumina_users_day.ipynb#/)
 
 
 ## Licence
 
-All svg files were created by Adrien Leger and licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+All svg and ipython notebook files were created by Adrien Leger and licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 You are free to:
 * Share — copy and redistribute the material in any medium or format

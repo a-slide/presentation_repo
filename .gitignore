@@ -4,3 +4,5 @@
 *.mpeg
 *.xvid
 *.pdf
+
+*/.ipynb_checkpoints/

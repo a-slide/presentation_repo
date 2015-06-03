@@ -1,0 +1,2462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1297.7881"
+   height="1195.2554"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Figure_sup_HTS_protocole_fancy.svg"
+   inkscape:export-filename="H:\adrien\Pictures\Figure_HTS_protocole_fancy.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path4467"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path4464"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path4458"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4440"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path4461"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path4350"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path4353"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4353-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-16"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4353-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-17"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4353-40"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4353-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4461-2"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4461-5"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4461-1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4467-4"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4467-2"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4467-9"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35124777"
+     inkscape:cx="657.27423"
+     inkscape:cy="627.05119"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1364"
+     inkscape:window-height="743"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-84.013661,-84.617234)">
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7011"
+       d="m 922.91915,450.19571 0,470.4704"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2.52380252;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.52380258, 2.52380258;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4890-1"
+       d="m 237.37726,450.19571 0,470.4704"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2.52380252;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.52380258, 2.52380258;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4890-1-4"
+       d="m 571.67438,450.19571 0,470.4704"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2.52380252;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.52380258, 2.52380258;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       id="path3115"
+       d="m 108.52866,484.18939 0,-0.68177 0,-0.90904 0.22733,-0.68179 0.22734,-0.68179 0.45464,-0.68178 0.22732,-0.68179 0.45464,-0.45453 0.68198,-0.68178 0.45465,-0.45452 0.68197,-0.45451 0.68198,-0.45454 0.68197,-0.22722 0.68197,-0.22721 0.68197,-0.22722 0.68198,-0.22721 0.9093,0 242.1005,0 0.90928,0 0.68199,0.22721 0.68197,0.22722 0.90929,0.22721 0.68197,0.22722 0.45465,0.45454 0.68198,0.45451 0.68197,0.45452 0.45465,0.68178 0.45464,0.45453 0.22746,0.68179 0.45464,0.68178 0.22746,0.68179 0.22721,0.68179 0,0.90904 0.22746,0.68177 0,31.36209 -0.22746,0.68179 0,0.90904 -0.22721,0.68177 -0.22746,0.68178 -0.45464,0.68179 -0.22746,0.68179 -0.45464,0.68178 -0.45465,0.45453 -0.68197,0.45452 -0.68198,0.45452 -0.45465,0.45452 -0.68197,0.22722 -0.90929,0.22722 -0.68197,0.22721 -0.68199,0.22722 -0.90928,0 -242.1005,0 -0.9093,0 -0.68198,-0.22722 -0.68197,-0.22721 -0.68197,-0.22722 -0.68197,-0.22722 -0.68198,-0.45452 -0.68197,-0.45452 -0.45465,-0.45452 -0.68198,-0.45453 -0.45464,-0.68178 -0.22732,-0.68179 -0.45464,-0.68179 -0.22734,-0.68178 -0.22733,-0.68177 0,-0.90904 0,-0.68179 0,-31.36209 z"
+       style="fill:#121212;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       id="path3121"
+       d="m 777.12286,484.41667 0,-0.90905 0.25722,-0.68179 0.25724,-0.90904 0.25723,-0.68179 0.25721,-0.68178 0.51442,-0.68179 0.51442,-0.45453 0.51445,-0.68178 0.51439,-0.45452 0.77167,-0.45451 0.77165,-0.45454 0.77163,-0.22722 0.77164,-0.22721 0.77165,-0.22722 1.02888,-0.22721 0.77165,0 274.19079,0 0.7716,0 0.7717,0.22721 1.0288,0.22722 0.7717,0.22721 0.7716,0.22722 0.7716,0.45454 0.5145,0.45451 0.7716,0.45452 0.5145,0.68178 0.5144,0.45453 0.5144,0.68179 0.2572,0.68178 0.2573,0.68179 0.2572,0.90904 0.2572,0.68179 0,0.90905 0,31.13481 0,0.68179 -0.2572,0.90904 -0.2572,0.68177 -0.2573,0.68178 -0.2572,0.68179 -0.5144,0.68179 -0.5144,0.68178 -0.5145,0.45453 -0.7716,0.45452 -0.5145,0.45452 -0.7716,0.45452 -0.7716,0.22722 -0.7717,0.22722 -1.0288,0.22721 -0.7717,0.22722 -0.7716,0 -274.19079,0 -0.77165,0 -1.02888,-0.22722 -0.77165,-0.22721 -0.77164,-0.22722 -0.77163,-0.22722 -0.77165,-0.45452 -0.77167,-0.45452 -0.51439,-0.45452 -0.51445,-0.45453 -0.51442,-0.68178 -0.51442,-0.68179 -0.25721,-0.68179 -0.25723,-0.68178 -0.25724,-0.68177 -0.25722,-0.90904 0,-0.68179 0,-31.13481 z"
+       style="fill:#121212;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       id="text3123"
+       style="font-size:10.24337006px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+       y="218.30853"
+       x="403.18286"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       id="path3131"
+       d="m 436.16782,484.18939 0.23921,-0.68177 0,-0.68179 0.23919,-0.90904 0.23895,-0.68179 0.47816,-0.68178 0.23896,-0.68179 0.47811,-0.45453 0.47813,-0.68178 0.71722,-0.45452 0.71721,-0.45451 0.47811,-0.45454 0.71721,-0.22722 0.7172,-0.22721 0.95626,-0.22722 0.71722,-0.22721 0.95626,0 254.60638,0 0.95624,0 0.71721,0.22721 0.71722,0.22722 0.71718,0.22721 0.71722,0.22722 0.71718,0.45454 0.7172,0.45451 0.47813,0.45452 0.47816,0.68178 0.47814,0.45453 0.47813,0.68179 0.47813,0.68178 0.2392,0.68179 0.23896,0.90904 0,0.68179 0,0.68177 0,31.36209 0,0.68179 0,0.90904 -0.23896,0.68177 -0.2392,0.68178 -0.47813,0.68179 -0.47813,0.68179 -0.47814,0.68178 -0.47816,0.45453 -0.47813,0.45452 -0.7172,0.45452 -0.71718,0.45452 -0.71722,0.22722 -0.71718,0.22722 -0.71722,0.22721 -0.71721,0.22722 -0.95624,0 -254.60638,0 -0.95626,0 -0.71722,-0.22722 -0.95626,-0.22721 -0.7172,-0.22722 -0.71721,-0.22722 -0.47811,-0.45452 -0.71721,-0.45452 -0.71722,-0.45452 -0.47813,-0.45453 -0.47813,-0.68178 -0.23897,-0.68179 -0.47814,-0.68179 -0.23896,-0.68178 -0.2392,-0.68177 0,-0.90904 -0.2392,-0.68179 0,-31.36209 z"
+       style="fill:#121212;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4890"
+       d="m 1149.9482,456.00577 0,464.66034"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2.52380252;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.52380258, 2.52380258;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2.52380252;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.52380258, 2.52380258;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1293.1038,456.00577 0,464.66034"
+       id="path4149"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       id="path3177"
+       d="m 88.978659,567.70367 0,-0.90906 0,-0.68175 0.227334,-0.90906 0.454649,-0.68177 0.227334,-0.6818 0.454649,-0.68179 0.454649,-0.68178 0.454649,-0.45452 0.681972,-0.45453 0.454649,-0.45452 0.681974,-0.45452 0.681972,-0.45453 0.909298,-0.22721 0.681974,-0.22721 0.681972,0 0.909298,0 1272.789468,0 0.9093,0 0.6819,0 0.9093,0.22721 0.6821,0.22721 0.6819,0.45453 0.6819,0.45452 0.6821,0.45452 0.4546,0.45453 0.4547,0.45452 0.6819,0.68178 0.2275,0.68179 0.4546,0.6818 0.2275,0.68177 0.2272,0.90906 0,0.68175 0.2272,0.90906 0,32.27109 -0.2272,0.68177 0,0.90904 -0.2272,0.68181 -0.2275,0.90902 -0.4546,0.68179 -0.2275,0.45453 -0.6819,0.68178 -0.4547,0.68179 -0.4546,0.45453 -0.6821,0.45451 -0.6819,0.45453 -0.6819,0.22721 -0.6821,0.22721 -0.9093,0.22723 -0.6819,0.22721 -0.9093,0 -1272.789468,0 -0.909298,0 -0.681972,-0.22721 -0.681974,-0.22723 -0.909298,-0.22721 -0.681972,-0.22721 -0.681974,-0.45453 -0.454649,-0.45451 -0.681972,-0.45453 -0.454649,-0.68179 -0.454649,-0.68178 -0.454649,-0.45453 -0.227334,-0.68179 -0.454649,-0.90902 -0.227334,-0.68181 0,-0.90904 0,-0.68177 0,-32.27109 z"
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       id="path3199"
+       d="m 88.978758,751.61606 0,-0.68179 0.227333,-0.90905 0.227334,-0.68179 0.227335,-0.90904 0.454649,-0.68179 0.227333,-0.68175 0.454649,-0.45456 0.681973,-0.68176 0.454649,-0.45454 0.681973,-0.4545 0.681973,-0.45453 0.681973,-0.22721 0.681974,-0.45453 0.681972,-0.22721 0.909301,0 0.909295,0 1272.789526,0 0.6819,0 0.9093,0 0.682,0.22721 0.9093,0.45453 0.6819,0.22721 0.4547,0.45453 0.682,0.4545 0.6819,0.45454 0.4547,0.68176 0.4546,0.45456 0.4547,0.68175 0.2273,0.68179 0.2274,0.90904 0.2272,0.68179 0.2272,0.90905 0,0.68179 0,32.27112 0,0.90904 -0.2272,0.68176 -0.2272,0.90906 -0.2274,0.68178 -0.2273,0.68179 -0.4547,0.68178 -0.4546,0.45452 -0.4547,0.6818 -0.6819,0.45452 -0.682,0.45452 -0.4547,0.4545 -0.6819,0.45455 -0.9093,0.22722 -0.682,0.22721 -0.9093,0 -0.6819,0 -1272.789526,0 -0.909295,0 -0.909301,0 -0.681972,-0.22721 -0.681974,-0.22722 -0.681973,-0.45455 -0.681973,-0.4545 -0.681973,-0.45452 -0.454649,-0.45452 -0.681973,-0.6818 -0.454649,-0.45452 -0.227333,-0.68178 -0.454649,-0.68179 -0.227335,-0.68178 -0.227334,-0.90906 -0.227333,-0.68176 0,-0.90904 0,-32.27112 z"
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       id="path3209"
+       d="m 88.978758,659.5462 0,-0.68177 0.227333,-0.90906 0.227334,-0.68178 0.227335,-0.90905 0.454649,-0.68177 0.227333,-0.6818 0.454649,-0.4545 0.681973,-0.68181 0.454649,-0.4545 0.681973,-0.45453 0.681973,-0.45453 0.681973,-0.22721 0.681974,-0.4545 0.681972,-0.22721 0.909301,0 0.909295,0 1272.789526,0 0.6819,0 0.9093,0 0.682,0.22721 0.9093,0.4545 0.6819,0.22721 0.4547,0.45453 0.682,0.45453 0.6819,0.4545 0.4547,0.68181 0.4546,0.4545 0.4547,0.6818 0.2273,0.68177 0.2274,0.90905 0.2272,0.68178 0.2272,0.90906 0,0.68177 0,32.2711 0,0.90905 -0.2272,0.68178 -0.2272,0.90906 -0.2274,0.68177 -0.2273,0.6818 -0.4547,0.68176 -0.4546,0.68181 -0.4547,0.4545 -0.6819,0.45452 -0.682,0.45453 -0.4547,0.45452 -0.6819,0.45452 -0.9093,0.22722 -0.682,0.22721 -0.9093,0 -0.6819,0.22722 -1272.789526,0 -0.909295,-0.22722 -0.909301,0 -0.681972,-0.22721 -0.681974,-0.22722 -0.681973,-0.45452 -0.681973,-0.45452 -0.681973,-0.45453 -0.454649,-0.45452 -0.681973,-0.4545 -0.454649,-0.68181 -0.227333,-0.68176 -0.454649,-0.6818 -0.227335,-0.68177 -0.227334,-0.90906 -0.227333,-0.68178 0,-0.90905 0,-32.2711 z"
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316"
+       y="505.4281"
+       x="854.59381"
+       style="font-size:21.47569084px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         style="font-size:21.47569084px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         y="505.4281"
+         x="854.59381"
+         id="tspan3318"
+         sodipodi:role="line">Purification 3</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4790"
+       y="505.42804"
+       x="503.42761"
+       style="font-size:21.47569084px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         style="font-size:21.47569084px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         y="505.42804"
+         x="503.42761"
+         id="tspan4792"
+         sodipodi:role="line">Purification 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.47569084px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="170.33643"
+       y="505.4281"
+       id="text3312"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan3314"
+         x="170.33643"
+         y="505.4281"
+         style="font-size:21.47569084px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold">Purification 1</tspan></text>
+    <path
+       transform="matrix(2.610427,0,0,2.610427,-9.2118711,244.90995)"
+       d="m 128.47328,36.266118 c -0.45809,0.793436 -25.53169,15.269685 -26.44787,15.269685 -0.91618,0 -25.989776,-14.476249 -26.447866,-15.269685 -0.458091,-0.793436 -0.458091,-29.7459336 0,-30.5393696 0.45809,-0.7934361 25.531686,-15.2696847 26.447866,-15.2696847 0.91618,0 25.98978,14.4762488 26.44787,15.2696849 0.45809,0.7934361 0.45809,29.7459334 0,30.5393694 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.03"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="26.447868"
+       sodipodi:r1="30.53937"
+       sodipodi:cy="20.996433"
+       sodipodi:cx="102.02541"
+       sodipodi:sides="6"
+       id="path4275"
+       style="color:#000000;fill:#858585;fill-opacity:0.38916255;fill-rule:nonzero;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:6.89999997, 2.29999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="star"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       style="font-size:23.52811432px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="579.00476"
+       y="435.64667"
+       id="text4127"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         x="579.00476"
+         y="435.64667"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan3324"> rAAV CMVp-eGFP-hygroTK-bGHpA produced by transient transfection</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4221"
+       d="m 211.58492,304.83827 -6.35488,-0.0357 c -0.60186,5.54853 0.81263,13.66833 -3.66766,10.74154 -3.83113,-3.40426 -3.01347,-28.06811 0.54368,-27.85464 5.28817,-0.86065 3.17607,7.86219 3.15188,12.15546 l 103.06182,0.58024 c 0.8931,-4.88748 -3.0895,-12.15511 3.07387,-12.12042 3.07811,-0.14644 2.7208,27.67962 0.0367,27.85793 -5.77608,0.86307 -3.16171,-6.63267 -3.13839,-10.77991 l -5.87725,-0.0331"
+       style="fill:none;stroke:#aa0000;stroke-width:3.06381297px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       x="228.66618"
+       y="328.72192"
+       style="font-size:21.75729179px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#aa0000;font-family:Calibri"
+       id="text4223"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">4.7kb</text>
+    <text
+       xml:space="preserve"
+       x="228.23329"
+       y="282.34433"
+       style="font-size:24.71079063px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#aa0000;font-family:Calibri"
+       id="text4225"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">rAAV</text>
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#858585;fill-opacity:0.38916255;fill-rule:nonzero;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:6.89999997, 2.29999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4326"
+       sodipodi:sides="6"
+       sodipodi:cx="102.02541"
+       sodipodi:cy="20.996433"
+       sodipodi:r1="30.53937"
+       sodipodi:r2="26.447868"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.03"
+       inkscape:randomized="0"
+       d="m 128.47328,36.266118 c -0.45809,0.793436 -25.53169,15.269685 -26.44787,15.269685 -0.91618,0 -25.989776,-14.476249 -26.447866,-15.269685 -0.458091,-0.793436 -0.458091,-29.7459336 0,-30.5393696 0.45809,-0.7934361 25.531686,-15.2696847 26.447866,-15.2696847 0.91618,0 25.98978,14.4762488 26.44787,15.2696849 0.45809,0.7934361 0.45809,29.7459334 0,30.5393694 z"
+       transform="matrix(1.1118585,-0.27029199,0.27029199,1.1118585,200.71459,160.68209)" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4328"
+       d="m 305.53406,169.37863 -2.1427,1.78 c 1.36271,2.03172 4.12714,4.35772 1.7983,4.63896 -2.24566,-0.0621 -8.92638,-8.56937 -7.67248,-9.50083 1.53195,-1.78007 3.28295,1.74276 4.48551,3.19034 l 34.74934,-28.86834 c -1.07855,-1.89202 -4.46449,-3.20782 -2.38635,-4.93422 0.99159,-0.91723 8.71859,8.52151 7.86813,9.33826 -1.69498,1.91849 -2.9314,-1.33418 -4.09309,-2.73251 l -1.98163,1.64629"
+       style="fill:none;stroke:#aa0000;stroke-width:1.34297562px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#858585;fill-opacity:0.38916255;fill-rule:nonzero;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:6.89999997, 2.29999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4334"
+       sodipodi:sides="6"
+       sodipodi:cx="102.02541"
+       sodipodi:cy="20.996433"
+       sodipodi:r1="30.53937"
+       sodipodi:r2="26.447868"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.03"
+       inkscape:randomized="0"
+       d="m 128.47328,36.266118 c -0.45809,0.793436 -25.53169,15.269685 -26.44787,15.269685 -0.91618,0 -25.989776,-14.476249 -26.447866,-15.269685 -0.458091,-0.793436 -0.458091,-29.7459336 0,-30.5393696 0.45809,-0.7934361 25.531686,-15.2696847 26.447866,-15.2696847 0.91618,0 25.98978,14.4762488 26.44787,15.2696849 0.45809,0.7934361 0.45809,29.7459334 0,30.5393694 z"
+       transform="matrix(0.59972875,-0.64828806,0.64828806,0.59972875,388.44219,395.20804)" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4336"
+       d="m 459.56563,356.07215 -0.61845,2.05912 c 1.74339,0.72518 4.51383,1.04142 3.13609,2.21608 -1.47073,0.91835 -9.39755,-1.70214 -8.98862,-2.83627 0.22554,-1.79849 2.85504,-0.28006 4.24615,0.13782 l 10.02954,-33.39441 c -1.50101,-0.75658 -4.24008,-0.15795 -3.64029,-2.15501 0.24633,-1.01303 9.24351,1.76001 9.04506,2.64819 -0.27141,1.95713 -2.4546,0.39285 -3.79841,-0.009 l -0.57192,1.90439"
+       style="fill:none;stroke:#aa0000;stroke-width:1.03653657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       transform="matrix(-0.00948859,-0.75970092,0.75970092,-0.00948859,637.9589,278.12362)"
+       d="m 128.47328,36.266118 c -0.45809,0.793436 -25.53169,15.269685 -26.44787,15.269685 -0.91618,0 -25.989776,-14.476249 -26.447866,-15.269685 -0.458091,-0.793436 -0.458091,-29.7459336 0,-30.5393696 0.45809,-0.7934361 25.531686,-15.2696847 26.447866,-15.2696847 0.91618,0 25.98978,14.4762488 26.44787,15.2696849 0.45809,0.7934361 0.45809,29.7459334 0,30.5393694 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.03"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="26.447868"
+       sodipodi:r1="30.53937"
+       sodipodi:cy="20.996433"
+       sodipodi:cx="102.02541"
+       sodipodi:sides="6"
+       id="path4281"
+       style="color:#000000;fill:#858585;fill-opacity:0.38916255;fill-rule:nonzero;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:6.89999997, 2.29999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="star" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:0.89171726px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 659.18113,211.58837 0.83307,1.65135 c 1.51747,-0.57951 3.43391,-2.02235 3.26942,-0.47348 -0.37429,1.44394 -6.87331,4.50135 -7.28953,3.55137 -0.92395,-1.25615 1.6162,-1.86514 2.73184,-2.42795 l -13.51094,-26.78134 c -1.38476,0.41644 -2.73999,2.41176 -3.54797,0.81013 -0.44599,-0.77815 6.81144,-4.37404 7.21343,-3.7022 0.98927,1.38227 -1.29949,1.69845 -2.3772,2.24217 l 0.77049,1.52721"
+       id="path4283"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#858585;fill-opacity:0.38916255;fill-rule:nonzero;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:6.89999997, 2.29999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4255"
+       sodipodi:sides="6"
+       sodipodi:cx="102.02541"
+       sodipodi:cy="20.996433"
+       sodipodi:r1="30.53937"
+       sodipodi:r2="26.447868"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.03"
+       inkscape:randomized="0"
+       d="m 128.47328,36.266118 c -0.45809,0.793436 -25.53169,15.269685 -26.44787,15.269685 -0.91618,0 -25.989776,-14.476249 -26.447866,-15.269685 -0.458091,-0.793436 -0.458091,-29.7459336 0,-30.5393696 0.45809,-0.7934361 25.531686,-15.2696847 26.447866,-15.2696847 0.91618,0 25.98978,14.4762488 26.44787,15.2696849 0.45809,0.7934361 0.45809,29.7459334 0,30.5393694 z"
+       transform="matrix(1.3444024,-0.32682326,0.32682326,1.3444024,445.72476,296.39424)" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4257"
+       d="m 572.4671,306.90964 -2.5908,2.15232 c 1.6477,2.45665 4.99031,5.26909 2.1744,5.60917 -2.71536,-0.075 -10.7933,-10.36163 -9.27717,-11.48793 1.85231,-2.15235 3.96955,2.10727 5.42365,3.85761 l 42.01712,-34.90614 c -1.30413,-2.28771 -5.39823,-3.87871 -2.8855,-5.96619 1.19904,-1.10903 10.54211,10.30379 9.51375,11.29135 -2.04947,2.31974 -3.54449,-1.61325 -4.94911,-3.30402 l -2.39608,1.99064"
+       style="fill:none;stroke:#aa0000;stroke-width:1.62385762px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#858585;fill-opacity:0.38916255;fill-rule:nonzero;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:6.89999997, 2.29999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4263"
+       sodipodi:sides="6"
+       sodipodi:cx="102.02541"
+       sodipodi:cy="20.996433"
+       sodipodi:r1="30.53937"
+       sodipodi:r2="26.447868"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.03"
+       inkscape:randomized="0"
+       d="m 128.47328,36.266118 c -0.45809,0.793436 -25.53169,15.269685 -26.44787,15.269685 -0.91618,0 -25.989776,-14.476249 -26.447866,-15.269685 -0.458091,-0.793436 -0.458091,-29.7459336 0,-30.5393696 0.45809,-0.7934361 25.531686,-15.2696847 26.447866,-15.2696847 0.91618,0 25.98978,14.4762488 26.44787,15.2696849 0.45809,0.7934361 0.45809,29.7459334 0,30.5393694 z"
+       transform="matrix(0.4284469,0.35802232,-0.35802232,0.4284469,337.74703,177.15668)" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4265"
+       d="m 364.7241,220.81818 -1.31986,-0.32491 c -0.40231,1.1239 -0.51375,2.88327 -1.29936,2.05077 -0.62673,-0.89936 0.77534,-5.98798 1.50445,-5.7659 1.14281,0.0851 0.26782,1.79378 0.0484,2.68548 l 21.4053,5.26879 c 0.42989,-0.97186 -0.0354,-2.68229 1.24472,-2.36718 0.64749,0.12319 -0.8168,5.89255 -1.38392,5.79556 -1.24441,-0.10911 -0.32625,-1.53737 -0.11428,-2.39872 l -1.22067,-0.30043"
+       style="fill:none;stroke:#aa0000;stroke-width:0.65531737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       transform="matrix(0.69943036,0.58446371,-0.58446371,0.69943036,706.27348,103.93839)"
+       d="m 128.47328,36.266118 c -0.45809,0.793436 -25.53169,15.269685 -26.44787,15.269685 -0.91618,0 -25.989776,-14.476249 -26.447866,-15.269685 -0.458091,-0.793436 -0.458091,-29.7459336 0,-30.5393696 0.45809,-0.7934361 25.531686,-15.2696847 26.447866,-15.2696847 0.91618,0 25.98978,14.4762488 26.44787,15.2696849 0.45809,0.7934361 0.45809,29.7459334 0,30.5393694 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.03"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="26.447868"
+       sodipodi:r1="30.53937"
+       sodipodi:cy="20.996433"
+       sodipodi:cx="102.02541"
+       sodipodi:sides="6"
+       id="path4155"
+       style="color:#000000;fill:#858585;fill-opacity:0.38916255;fill-rule:nonzero;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:6.89999997, 2.29999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="star" />
+    <path
+       style="fill:none;stroke:#aa0000;stroke-width:1.06979144px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 750.31296,175.21481 -2.15466,-0.53035 c -0.65678,1.83472 -0.83868,4.70686 -2.12114,3.34784 -1.02312,-1.46822 1.26573,-9.77527 2.45602,-9.41273 1.8656,0.13901 0.43719,2.92833 0.0789,4.38398 l 34.94365,8.60121 c 0.70178,-1.58657 -0.0578,-4.37879 2.032,-3.86442 1.05699,0.20133 -1.3334,9.6195 -2.25923,9.46114 -2.03146,-0.17807 -0.53261,-2.50968 -0.18647,-3.91585 l -1.99275,-0.49045"
+       id="path4161"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       transform="matrix(2.3744936,0,0,2.3744936,271.83695,127.07967)"
+       d="m 128.47328,36.266118 c -0.45809,0.793436 -25.53169,15.269685 -26.44787,15.269685 -0.91618,0 -25.989776,-14.476249 -26.447866,-15.269685 -0.458091,-0.793436 -0.458091,-29.7459336 0,-30.5393696 0.45809,-0.7934361 25.531686,-15.2696847 26.447866,-15.2696847 0.91618,0 25.98978,14.4762488 26.44787,15.2696849 0.45809,0.7934361 0.45809,29.7459334 0,30.5393694 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.03"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="26.447868"
+       sodipodi:r1="30.53937"
+       sodipodi:cy="20.996433"
+       sodipodi:cx="102.02541"
+       sodipodi:sides="6"
+       id="path4287"
+       style="color:#000000;fill:#858585;fill-opacity:0.38916255;fill-rule:nonzero;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:6.89999997, 2.29999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="star"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:nodetypes="czzc"
+       inkscape:connector-curvature="0"
+       id="path4291"
+       d="m 469.77553,215.46539 c 0,0 19.73395,-27.54796 33.07326,-33.0733 13.33935,-5.52533 30.57485,6.10665 40.7056,3.39214 10.13073,-2.71454 21.62488,-25.44099 21.62488,-25.44099"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:2.78690195px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       id="text4293"
+       y="146.00113"
+       x="511.24744"
+       style="font-size:17.74546814px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63233477;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         style="font-size:17.74546814px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.63233477;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans"
+         y="146.00113"
+         x="511.24744"
+         sodipodi:role="line"
+         id="tspan6547">Vector</tspan><tspan
+         id="tspan4994"
+         style="font-size:17.74546814px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.63233477;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans"
+         y="168.18297"
+         x="511.24744"
+         sodipodi:role="line">Backbone</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#858585;fill-opacity:0.38916255;fill-rule:nonzero;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:6.89999997, 2.29999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4125"
+       sodipodi:sides="6"
+       sodipodi:cx="102.02541"
+       sodipodi:cy="20.996433"
+       sodipodi:r1="30.53937"
+       sodipodi:r2="26.447868"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.03"
+       inkscape:randomized="0"
+       d="m 128.47328,36.266118 c -0.45809,0.793436 -25.53169,15.269685 -26.44787,15.269685 -0.91618,0 -25.989776,-14.476249 -26.447866,-15.269685 -0.458091,-0.793436 -0.458091,-29.7459336 0,-30.5393696 0.45809,-0.7934361 25.531686,-15.2696847 26.447866,-15.2696847 0.91618,0 25.98978,14.4762488 26.44787,15.2696849 0.45809,0.7934361 0.45809,29.7459334 0,30.5393694 z"
+       transform="matrix(2.057516,0,0,2.057516,518.90152,266.19547)"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="color:#000000;fill:none;stroke:#008080;stroke-width:2.41487098px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 691.38047,298.70932 c 0,0 17.90749,23.06268 29.4661,27.85041 11.55863,4.78774 14.28724,-26.89288 34.46385,-19.90396 20.17664,6.98891 25.48103,-14.65979 23.58516,-15.92371"
+       id="path4163"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.74546814px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63233477;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans"
+       x="193.10191"
+       y="162.88785"
+       id="text4192"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         x="193.10191"
+         y="162.88785"
+         style="font-size:17.74546814px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63233477;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans"
+         id="tspan6549">Helper</tspan><tspan
+         id="tspan4913"
+         sodipodi:role="line"
+         x="193.10191"
+         y="185.06969"
+         style="font-size:17.74546814px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63233477;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans">plasmid</tspan></text>
+    <path
+       sodipodi:nodetypes="czzzzzc"
+       inkscape:connector-curvature="0"
+       id="path4318"
+       d="m 193.00299,200.75778 c 0,0 35.91638,-9.88202 42.96804,-2.83035 7.05167,7.05169 4.64697,15.58303 8.78659,22.75307 4.13964,7.17007 19.63169,9.99441 23.36537,6.26073 3.73369,-3.73367 21.43937,-2.07551 29.30651,0.88823 7.86711,2.96372 7.49239,16.15361 13.97499,21.87381 6.48263,5.72024 28.43502,6.52608 28.43502,6.52608"
+       style="fill:none;stroke:#008080;stroke-width:2.61042714px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:2.78690195px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 395.57974,117.03766 c 17.79052,25.16023 15.05895,9.71192 39.36926,-8.05234 18.70585,-14.578279 18.22751,8.4075 33.32727,-0.12203 15.09976,-8.52952 19.31782,-20.852605 19.31782,-20.852605"
+       id="path4839"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczc"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:2.78690195px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 388.48032,320.84225 c 6.48829,9.17604 5.49206,3.54197 14.35817,-2.93674 6.82212,-5.31677 6.64766,3.06626 12.1546,-0.0444 5.50697,-3.11077 7.04529,-7.60506 7.04529,-7.60506"
+       id="path4841"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczc"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:2.78690195px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 558.95738,258.01818 c -4.60484,-9.26455 -25.30319,16.62862 -8.67109,20.86936 14.60711,5.75208 2.07304,11.06453 -10.40358,14.60742 -12.47662,3.54291 -15.95854,-14.86127 -15.95854,-14.86127"
+       id="path4316"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczc"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4847"
+       y="590.9809"
+       x="494.75214"
+       style="font-size:26.91108131px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+         y="590.9809"
+         x="494.75214"
+         id="tspan4849"
+         sodipodi:role="line">Protein digestion and DNA extraction</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4851"
+       y="682.7597"
+       x="574.22394"
+       style="font-size:26.91108131px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+         y="682.7597"
+         x="574.22394"
+         id="tspan4853"
+         sodipodi:role="line">Second strand synthesis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.91108131px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="581.53644"
+       y="774.71588"
+       id="text4843"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan4845"
+         x="581.53644"
+         y="774.71588"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">NGS library preparation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28.76128197px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="731.22626"
+       y="950.3465"
+       id="text4855"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         x="731.22626"
+         y="950.3465"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan3407">Bioinformatics analysis</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4892"
+       y="408.37357"
+       x="1291.2787"
+       style="font-size:23.52811432px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         style="font-size:23.52811432px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         y="408.37357"
+         x="1295.3685"
+         sodipodi:role="line"
+         id="tspan4942">Negative </tspan><tspan
+         style="font-size:23.52811432px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         y="437.78372"
+         x="1291.2787"
+         sodipodi:role="line"
+         id="tspan6596">control</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5138"
+       y="408.37357"
+       x="1147.4523"
+       style="font-size:23.52811432px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         style="font-size:23.52811432px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         y="408.37357"
+         x="1147.4523"
+         sodipodi:role="line"
+         id="tspan6600">Internal</tspan><tspan
+         style="font-size:23.52811432px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         y="437.78372"
+         x="1151.5421"
+         sodipodi:role="line"
+         id="tspan3405">Normalizer </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.81657791px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="485.80115"
+       y="511.30124"
+       id="text4863"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         x="485.80115"
+         y="511.30124"
+         style="font-size:9.81657791px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="tspan4940" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.95273781px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       x="952.0174"
+       y="351.83536"
+       id="text4898"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan4900"
+         x="952.0174"
+         y="351.83536">rAAV cassette</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5132"
+       y="209.49013"
+       x="1153.4689"
+       style="font-size:20.95273781px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         y="209.49013"
+         x="1153.4689"
+         id="tspan5134"
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle">Helper</tspan><tspan
+         y="235.68105"
+         x="1153.4689"
+         sodipodi:role="line"
+         id="tspan3349"
+         style="text-align:center;text-anchor:middle">Plasmid</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.95273781px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       x="1224.774"
+       y="198.12045"
+       id="text4902"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan4904"
+         x="1224.774"
+         y="198.12045">Phage-Lambda</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6511"
+       y="296.98438"
+       x="1217.7169"
+       style="font-size:20.95273781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         y="296.98438"
+         x="1217.7169"
+         id="tspan6513"
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle">HEK-293</tspan><tspan
+         y="323.17529"
+         x="1217.7169"
+         sodipodi:role="line"
+         id="tspan3326"
+         style="text-align:center;text-anchor:middle">cells DNA</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.19838679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.19838678, 2.39677356;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 1090.143,345.7668 c 0,0 24.1852,2.15053 39.4616,26.51411"
+       id="path5130"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5128"
+       d="m 1178.3285,331.71116 c 0,0 -11.1089,8.16281 -20.3308,40.56975"
+       style="fill:none;stroke:#000000;stroke-width:1.19838679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.19838678, 2.39677356;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5136"
+       d="m 1113.5345,298.2819 c 0,0 14.7337,19.19643 25.5344,73.99901"
+       style="fill:none;stroke:#000000;stroke-width:1.19838679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.19838678, 2.39677356;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.19838679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.19838678, 2.39677356;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       d="m 1292.9088,210.90751 0,160.07023"
+       id="path4944"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="color:#000000;fill:none;stroke:#aa0000;stroke-width:5.99193382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 89.009628,1228.7602 507.464742,0"
+       id="path3244"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:5.99193382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 667.53662,1228.7602 216.99752,0"
+       id="path3246"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.76128197px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans"
+       x="342.43304"
+       y="1271.6653"
+       id="text4082"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan4084"
+         x="342.43304"
+         y="1271.6653">rAAV genome</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#008080;stroke-width:5.99193382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 965.90065,1228.7602 264.63115,0"
+       id="path3246-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.76128197px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63233477;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans"
+       x="776.45667"
+       y="1271.6653"
+       id="text4082-7"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan4084-9"
+         x="776.45667"
+         y="1271.6653">Vector Backbone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28.76128197px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63233477;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans"
+       x="1098.125"
+       y="1271.6653"
+       id="text4082-7-8"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan4084-9-6"
+         x="1098.125"
+         y="1271.6653">Helper plasmid</tspan></text>
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 97.357057,1211.18 47.492423,0"
+       id="path4184-777"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 113.18787,1202.7923 47.49245,0"
+       id="path4184-777-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 118.46481,1194.4044 47.49244,0"
+       id="path4184-777-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125.50071,1186.0169 47.49246,0"
+       id="path4184-777-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 136.05459,1177.6292 47.49246,0"
+       id="path4184-777-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 143.09052,1169.2413 47.49247,0"
+       id="path4184-777-98"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 148.36744,1160.8534 47.49246,0"
+       id="path4184-777-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 152.76491,1152.4659 47.49245,0"
+       id="path4184-777-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 154.5239,1144.0782 47.49245,0"
+       id="path4184-777-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 155.40339,1135.6902 47.49245,0"
+       id="path4184-777-07"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 159.80083,1127.3024 47.49245,0"
+       id="path4184-777-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 162.43928,1118.9148 47.49246,0"
+       id="path4184-777-40"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 162.43928,1110.5271 47.49246,0"
+       id="path4184-777-59"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 162.43928,1102.1393 47.49246,0"
+       id="path4184-777-02"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 168.59572,1093.7517 47.49245,0"
+       id="path4184-777-57"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 168.59572,1085.3639 47.49245,0"
+       id="path4184-777-09"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 168.59572,1076.9761 47.49245,0"
+       id="path4184-777-27"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 171.23417,1068.5882 47.49248,0"
+       id="path4184-777-94"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 181.78808,1060.2005 47.49243,0"
+       id="path4184-777-67"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 193.22144,1043.4251 47.49245,0"
+       id="path4184-777-28"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 193.22144,1051.813 47.49245,0"
+       id="path4184-777-00"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 157.82198,1211.8108 47.49245,0"
+       id="path4184-777-51"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 170.13483,1203.3422 47.49248,0"
+       id="path4184-777-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 178.05024,1194.8731 47.49245,0"
+       id="path4184-777-69"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 178.05024,1186.4043 47.49245,0"
+       id="path4184-777-942"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 191.24261,1177.9356 47.49243,0"
+       id="path4184-777-91"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 201.35673,1160.9977 47.49243,0"
+       id="path4184-777-73"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 198.05863,1169.4667 47.49245,0"
+       id="path4184-777-42"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 203.55546,1152.5292 47.49243,0"
+       id="path4184-777-79"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 207.95291,1144.06 47.49243,0"
+       id="path4184-777-64"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 211.47085,1135.5913 47.49245,0"
+       id="path4184-777-020"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 212.35033,1127.1225 47.49245,0"
+       id="path4184-777-74"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 213.22982,1118.6536 47.49245,0"
+       id="path4184-777-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 214.10932,1110.1847 47.49243,0"
+       id="path4184-777-95"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 226.67062,1101.7161 47.49245,0"
+       id="path4184-777-099"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 229.30908,1093.247 47.49245,0"
+       id="path4184-777-283"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 226.85088,1211.7791 47.49248,0"
+       id="path4184-777-12"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 234.76629,1203.308 47.49243,0"
+       id="path4184-777-75"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 244.44068,1186.3661 47.49243,0"
+       id="path4184-777-732"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 245.32017,1194.837 47.49243,0"
+       id="path4184-777-77"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 248.83811,1177.8948 47.49245,0"
+       id="path4184-777-985"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 254.99456,1169.4242 47.49243,0"
+       id="path4184-777-38"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 262.03046,1160.9529 47.49245,0"
+       id="path4184-777-76"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 262.03046,1152.4816 47.49245,0"
+       id="path4184-777-82"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 263.78945,1144.0107 47.49245,0"
+       id="path4184-777-777"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 269.94589,1135.5397 47.49243,0"
+       id="path4184-777-58"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 275.22285,1127.0687 47.4924,0"
+       id="path4184-777-981"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 278.74078,1118.5974 47.49243,0"
+       id="path4184-777-80"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 281.37925,1110.1267 47.49243,0"
+       id="path4184-777-56"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 283.13822,1101.6555 47.49243,0"
+       id="path4184-777-37"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 280.04872,1211.7722 47.88809,0"
+       id="path4184-777-002"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 289.80372,1203.271 47.88806,0"
+       id="path4184-777-954"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 293.35099,1194.7699 47.88807,0"
+       id="path4184-777-83"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 300.44551,1186.2682 47.88804,0"
+       id="path4184-777-36"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 312.86095,1177.7671 47.88803,0"
+       id="path4184-777-89"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 316.40821,1169.266 47.88805,0"
+       id="path4184-777-765"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 319.95547,1160.7645 47.88805,0"
+       id="path4184-777-70"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 327.93681,1152.2633 47.88807,0"
+       id="path4184-777-44"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 328.82361,1135.2607 47.8881,0"
+       id="path4184-777-99"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 328.82361,1143.762 47.8881,0"
+       id="path4184-777-580"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 329.71045,1126.7594 47.88804,0"
+       id="path4184-777-66"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 335.03132,1118.2579 47.88805,0"
+       id="path4184-777-01"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 343.89948,1109.7568 47.88805,0"
+       id="path4184-777-43"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 344.78632,1101.2556 47.88807,0"
+       id="path4184-777-075"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 344.78632,1092.7542 47.88807,0"
+       id="path4184-777-360"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 346.55994,1084.253 47.88805,0"
+       id="path4184-777-97"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 350.994,1075.7513 47.88805,0"
+       id="path4184-777-35"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 359.86217,1067.2502 47.88807,0"
+       id="path4184-777-344"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 363.40942,1058.7491 47.88809,0"
+       id="path4184-777-22"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 366.06988,1050.2476 47.8881,0"
+       id="path4184-777-11"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 339.44686,1211.9321 47.49246,0"
+       id="path4184-777-25"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 342.96482,1203.4183 47.49243,0"
+       id="path4184-777-616"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 362.31362,1194.9042 47.4924,0"
+       id="path4184-777-19"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 367.59052,1186.3904 47.49243,0"
+       id="path4184-777-697"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 378.1444,1177.8765 47.49243,0"
+       id="path4184-777-62"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 388.69828,1169.3627 47.49243,0"
+       id="path4184-777-113"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 393.09572,1160.8488 47.49243,0"
+       id="path4184-777-06"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 394.8547,1152.3351 47.49243,0"
+       id="path4184-777-679"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 398.37266,1143.8209 47.49243,0"
+       id="path4184-777-744"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 398.59252,1135.3072 47.49245,0"
+       id="path4184-777-29"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 403.86945,1126.7932 47.49245,0"
+       id="path4184-777-88"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 404.74898,1118.2795 47.49242,0"
+       id="path4184-777-401"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 407.38743,1109.7653 47.49243,0"
+       id="path4184-777-54"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 412.22461,1101.2516 47.49245,0"
+       id="path4184-777-835"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 412.22461,1092.7381 47.49245,0"
+       id="path4184-777-566"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 413.9836,1084.2239 47.49243,0"
+       id="path4184-777-17"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 418.38105,1075.7101 47.49243,0"
+       id="path4184-777-30"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 418.38105,1067.1962 47.49243,0"
+       id="path4184-777-071"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 410.67523,1211.8102 47.49243,0"
+       id="path4184-777-378"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 416.83166,1203.3151 47.49244,0"
+       id="path4184-777-16"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 425.62657,1194.8198 47.49244,0"
+       id="path4184-777-982"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 437.05992,1186.3244 47.49243,0"
+       id="path4184-777-33"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 440.57788,1177.8289 47.49243,0"
+       id="path4184-777-443"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 446.73432,1169.3337 47.49243,0"
+       id="path4184-777-86"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 450.25228,1160.8382 47.49242,0"
+       id="path4184-777-55"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 453.77024,1152.3433 47.49242,0"
+       id="path4184-777-15"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 453.77024,1143.848 47.49242,0"
+       id="path4184-777-18"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 459.92665,1135.3525 47.49246,0"
+       id="path4184-777-0754"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 465.20361,1126.8573 47.4924,0"
+       id="path4184-777-50"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 468.72154,1118.3618 47.49243,0"
+       id="path4184-777-47"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 468.72154,1109.8665 47.49243,0"
+       id="path4184-777-950"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 471.36001,1101.3711 47.49243,0"
+       id="path4184-777-951"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 479.27545,1092.876 47.4924,0"
+       id="path4184-777-541"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 468.1763,1211.8108 48.87865,0"
+       id="path4184-777-93"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 469.08144,1203.2968 48.87865,0"
+       id="path4184-777-20"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 498.0466,1186.269 48.8786,0"
+       id="path4184-777-430"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 499.8569,1177.755 48.87863,0"
+       id="path4184-777-177"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 503.47754,1169.2415 48.87861,0"
+       id="path4184-777-13"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 506.19301,1160.7275 48.87863,0"
+       id="path4184-777-438"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 507.09818,1152.2136 48.87862,0"
+       id="path4184-777-626"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 514.33943,1143.6998 48.87865,0"
+       id="path4184-777-772"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 519.7704,1135.1857 48.87862,0"
+       id="path4184-777-072"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 486.27949,1194.7831 48.87862,0"
+       id="path4184-777-514"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 525.88836,1211.8108 47.49245,0"
+       id="path4184-777-766"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 528.7467,1203.2968 47.49245,0"
+       id="path4184-777-14"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 541.05955,1194.7831 47.49245,0"
+       id="path4184-777-14-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 550.29423,1186.269 47.49242,0"
+       id="path4184-777-14-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 667.97311,1211.5768 47.49245,0"
+       id="path4184-777-2-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 675.00903,1203.1889 47.49242,0"
+       id="path4184-777-98-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 680.28595,1194.8012 47.49245,0"
+       id="path4184-777-4-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 684.6834,1186.4137 47.49245,0"
+       id="path4184-777-8-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 686.44239,1178.0258 47.49245,0"
+       id="path4184-777-0-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 687.32188,1169.6379 47.49243,0"
+       id="path4184-777-07-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 723.16108,1211.8832 47.49243,0"
+       id="path4184-777-91-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 733.2752,1194.9453 47.49245,0"
+       id="path4184-777-73-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 729.97712,1203.4143 47.49243,0"
+       id="path4184-777-42-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 735.47393,1186.4768 47.49243,0"
+       id="path4184-777-79-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 739.87139,1178.0077 47.49243,0"
+       id="path4184-777-64-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 743.38935,1169.5391 47.49243,0"
+       id="path4184-777-020-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 744.26882,1161.0702 47.49242,0"
+       id="path4184-777-74-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 780.75661,1211.8426 47.49243,0"
+       id="path4184-777-985-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 786.91303,1203.3718 47.49245,0"
+       id="path4184-777-38-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 793.94895,1194.9005 47.49243,0"
+       id="path4184-777-76-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 793.94895,1186.4294 47.49243,0"
+       id="path4184-777-82-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 795.70794,1177.9583 47.49243,0"
+       id="path4184-777-777-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 801.86435,1169.4873 47.49245,0"
+       id="path4184-777-58-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 833.80288,1211.7147 47.88807,0"
+       id="path4184-777-89-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 837.35016,1203.2136 47.88806,0"
+       id="path4184-777-765-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 968.26771,1211.5122 47.88809,0"
+       id="path4184-777-44-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 969.15451,1194.5096 47.88809,0"
+       id="path4184-777-99-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 969.15451,1203.0107 47.88809,0"
+       id="path4184-777-580-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1035.1856,1211.5839 47.4925,0"
+       id="path4184-777-679-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1038.7036,1203.0698 47.4924,0"
+       id="path4184-777-744-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1038.9234,1194.556 47.4925,0"
+       id="path4184-777-29-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1044.2004,1186.0421 47.4924,0"
+       id="path4184-777-88-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1045.0799,1177.5283 47.4924,0"
+       id="path4184-777-401-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1047.7183,1169.0142 47.4925,0"
+       id="path4184-777-54-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1094.1011,1211.5922 47.4925,0"
+       id="path4184-777-15-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1094.1011,1203.0969 47.4925,0"
+       id="path4184-777-18-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1100.2576,1194.6014 47.4924,0"
+       id="path4184-777-0754-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1105.5345,1186.1061 47.4925,0"
+       id="path4184-777-50-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1120.029,1177.6107 47.4924,0"
+       id="path4184-777-47-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1159.556,1211.4624 48.8786,0"
+       id="path4184-777-626-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1166.7973,1202.9767 48.8786,0"
+       id="path4184-777-772-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1172.2282,1194.4911 48.8787,0"
+       id="path4184-777-072-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:#241c1c;stroke:#000000;stroke-width:2.19530392;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1179.284,1186.0053 47.4925,0"
+       id="path4184-777-541-4-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       style="font-size:58.72042084px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#241c1c;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="1281.7188"
+       y="1231.4355"
+       id="text5931"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan5933"
+         x="1281.7188"
+         y="1231.4355">...</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5132-8"
+       y="271.65411"
+       x="1054.9019"
+       style="font-size:20.95273781px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         y="271.65411"
+         x="1054.9019"
+         id="tspan5134-2"
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle">Vector plasmid</tspan><tspan
+         y="297.84503"
+         x="1054.9019"
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle"
+         id="tspan3375">Backbone</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5128-1"
+       d="m 1155.9599,247.49791 c 0,0 -9.7605,70.54831 -7.4266,124.783"
+       style="fill:none;stroke:#000000;stroke-width:1.19838679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.19838678, 2.39677356;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4926"
+       d="m 667.90433,285.79439 c 12.76476,12.58611 -9.16574,27.66956 -3.63166,38.73772 2.61038,5.22069 30.51794,10.19263 32.68494,14.52662 6.78869,13.57739 -4.50188,26.3043 13.31609,30.26385"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:2.78690195px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4998"
+       d="m 447.12997,255.30785 c 19.76059,8.70256 14.10132,-1.58044 24.67548,-14.04982"
+       style="fill:none;stroke:#800080;stroke-width:1.55091131px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5004"
+       d="m 736.47468,258.94006 c -47.29752,20.45389 8.67943,-1.8315 -24.82372,31.67166"
+       style="fill:none;stroke:#800080;stroke-width:2.39677358px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5012"
+       d="m 605.39827,223.81156 c 5.08646,8.06959 10.80912,-8.38711 10.3904,6.09496 -0.0659,2.28096 -4.90746,3.13198 -3.93337,6.36262 0.009,0.0331 30.01067,14.07535 32.98239,14.58789"
+       style="fill:none;stroke:#800080;stroke-width:1.34916723px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5014"
+       d="m 631.18785,144.23733 c 18.10596,27.50276 70.19121,-15.95178 70.19121,31.67167"
+       style="fill:none;stroke:#800080;stroke-width:2.39677358px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5018"
+       d="m 368.49485,201.18079 c 7.4745,18.34713 -27.70577,6.16212 -14.11568,23.14971 4.25451,5.31818 9.59362,-0.009 12.98644,6.77554"
+       style="fill:none;stroke:#800080;stroke-width:1.58095622px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4293-9"
+       y="122.41507"
+       x="678.01172"
+       style="font-size:17.74546814px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63233477;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         id="tspan4994-8"
+         style="font-size:17.74546814px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke-width:0.63233477;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans"
+         y="122.41507"
+         x="678.01172"
+         sodipodi:role="line">Human genome</tspan><tspan
+         id="tspan5046"
+         style="font-size:17.74546814px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke-width:0.63233477;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Calibri;-inkscape-font-specification:Sans"
+         y="144.59691"
+         x="678.01172"
+         sodipodi:role="line">DNA</tspan></text>
+    <path
+       id="path3199-5"
+       d="m 88.978763,843.45853 0,-0.68177 0.227333,-0.90904 0.227334,-0.68181 0.227333,-0.90903 0.45465,-0.68178 0.227334,-0.68179 0.454648,-0.45453 0.681974,-0.68178 0.454649,-0.45453 0.681972,-0.45452 0.681974,-0.45452 0.681973,-0.22721 0.681973,-0.45453 0.681973,-0.22721 0.909298,0 0.909293,0 1272.789526,0 0.6819,0 0.9093,0 0.682,0.22721 0.9093,0.45453 0.6819,0.22721 0.4547,0.45452 0.682,0.45452 0.6819,0.45453 0.4547,0.68178 0.4546,0.45453 0.4547,0.68179 0.2273,0.68178 0.2274,0.90903 0.2272,0.68181 0.2272,0.90904 0,0.68177 0,32.27112 0,0.90904 -0.2272,0.68179 -0.2272,0.90904 -0.2274,0.68177 -0.2273,0.6818 -0.4547,0.68177 -0.4546,0.45455 -0.4547,0.68177 -0.6819,0.45454 -0.682,0.4545 -0.4547,0.45453 -0.6819,0.45451 -0.9093,0.22723 -0.682,0.22721 -0.9093,0 -0.6819,0 -1272.789526,0 -0.909295,0 -0.909301,0 -0.681972,-0.22721 -0.681974,-0.22723 -0.681973,-0.45451 -0.681973,-0.45453 -0.681973,-0.4545 -0.454649,-0.45454 -0.681973,-0.68177 -0.454649,-0.45455 -0.227333,-0.68177 -0.454649,-0.6818 -0.227335,-0.68177 -0.227334,-0.90904 -0.227333,-0.68179 0,-0.90904 0,-32.27112 z"
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.76128197px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="572.31421"
+       y="867.22668"
+       id="text4859"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan4861"
+         x="572.31421"
+         y="867.22668"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Illumina HiSeq 2x100bp</tspan></text>
+    <path
+       id="path3199-5-2"
+       d="m 88.978643,935.30087 0,-0.68176 0.227453,-0.90904 0.227214,-0.68182 0.227453,-0.90902 0.454646,-0.68179 0.227453,-0.68178 0.454644,-0.45452 0.681978,-0.6818 0.454644,-0.45451 0.681977,-0.45453 0.681979,-0.45453 0.681977,-0.22721 0.681979,-0.45452 0.681953,-0.22722 0.909312,0 0.909288,0 1272.789407,0 0.6821,0 0.9093,0 0.6819,0.22722 0.9093,0.45452 0.6819,0.22721 0.4547,0.45453 0.682,0.45453 0.682,0.45451 0.4546,0.6818 0.4547,0.45452 0.4546,0.68178 0.2273,0.68179 0.2274,0.90902 0.2272,0.68182 0.2272,0.90904 0,0.68176 0,32.27112 0,0.90906 -0.2272,0.68178 -0.2272,0.90905 -0.2274,0.68175 -0.2273,0.68182 -0.4546,0.68177 -0.4547,0.45454 -0.4546,0.68176 -0.682,0.45456 -0.682,0.45448 -0.4547,0.45453 -0.6819,0.45453 -0.9093,0.22721 -0.6819,0.22721 -0.9093,0 -0.6821,0 -1272.789409,0 -0.909288,0 -0.909311,0 -0.681954,-0.22721 -0.681979,-0.22721 -0.681978,-0.45453 -0.681977,-0.45453 -0.681979,-0.45448 -0.454644,-0.45456 -0.681977,-0.68176 -0.454644,-0.45454 -0.227454,-0.68177 -0.454644,-0.68182 -0.227454,-0.68175 -0.227214,-0.90905 -0.227454,-0.68178 0,-0.90906 0,-32.27112 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.39677358"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.76128197px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="733.09235"
+       y="959.06909"
+       id="text4859-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Utilisateur\Desktop\Thèse_figures\Figure_28_HTS.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan4861-6"
+         x="733.09235"
+         y="959.06909"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Bioinformatic analyses (including an <tspan
+   id="tspan6669"
+   style="font-style:italic">in silico </tspan>control)</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6671"
+       d="m 650.87561,1004.5078 c -15.30562,45.8956 -46.60142,36.9966 -70.19121,73.6152"
+       style="fill:none;stroke:#000000;stroke-width:2.39677358;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-3)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6673"
+       d="m 722.20818,1004.5078 c 0,58.778 34.81028,57.6368 34.81028,111.2788"
+       style="fill:none;stroke:#000000;stroke-width:2.39677358;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-3)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6679"
+       d="m 793.5407,1004.5078 c 11.42028,61.4737 175.30084,76.4995 198.01916,135.2466"
+       style="fill:none;stroke:#000000;stroke-width:2.39677358;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-3)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6683"
+       d="m 864.87327,1004.5078 c 77.39721,108.4524 338.27373,46.3585 421.14733,131.8226"
+       style="fill:none;stroke:#000000;stroke-width:2.39677358;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend-3)" />
+  </g>
+</svg>
