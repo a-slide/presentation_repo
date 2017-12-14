@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans:300|Lato:300");
+@import url("http://fonts.googleapis.com/css?family=Source+Code+Pro:300,400");
+.prompt {
+  display: none !important;
+}
+
+.rise-enabled {
+  background: #FFFFFF;
+  color: #262626;
+  width: 1280;
+  height: 800;
+}
+.reveal {
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  color: text-color;
+}
+.reveal li,
+.reveal p,
+.reveal center {
+  color: #262626;
+  font-weight: 300;
+}
+/*********************************************
+ * HEADERS
+ *********************************************/
+.reveal .mytitle {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2.5em;
+}
+.reveal h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #3399ff;
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 4%;
+  margin-top: 0px;
+  line-height: 1.25;
+  text-transform: none;
+  font-weight: bold;
+  word-wrap: break-word;
+  border-bottom: 2px solid #3399ff;
+}
+.reveal h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #3399ff;
+  text-align: center;
+  font-size: 2.00em;
+  margin-bottom: 3%;
+  margin-top: 0px;
+  line-height: 1.25;
+  text-transform: none;
+  font-weight: normal;
+  word-wrap: break-word;
+  border-bottom: 2px solid #3399ff;
+}
+.reveal h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #262626;
+    text-align: center;
+    font-size: 1.50em;
+    margin-bottom: 2%;
+    margin-top: 0px;
+    line-height: 1.25;
+    text-transform: none;
+    font-weight: normal;
+    word-wrap: break-word;
+}
+.reveal h4 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #262626;
+    text-align: center;
+    font-size: 1em;
+    margin-bottom: 1%;
+    margin-top: 0px;
+    line-height: 1.25;
+    text-transform: none;
+    font-weight: normal;
+    word-wrap: break-word;
+}
+
+/*********************************************
+ * LINKS
+ *********************************************/
+.reveal a {
+  color: #00BFFF;
+  text-decoration: none;
+  -webkit-transition: color .15s ease;
+  -moz-transition: color .15s ease;
+  transition: color .15s ease;
+}
+.reveal a:hover {
+  color: #D5F6D7;
+  text-shadow: none;
+  border: none;
+}
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+.reveal .controls {
+  color: #00BFFF;
+}
+.reveal .slide-number {
+  color: #00BFFF;
+}
+/*********************************************
+* PROGRESS BAR
+*********************************************/
+.reveal .progress {
+  background: rgba(0, 0, 0, 0.2);
+}
+.rise-enabled .reveal .progress span {
+  background: #00BFFF;
+  -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+}
+/*********************************************
+ * CODEMIRROR
+ *********************************************/
+.reveal .cm-s-ipython .CodeMirror-cursor {
+  border-left: 1px solid #616161 !important;
+}
+.reveal code {
+  font-family: 'Code Sans Pro', sans-serif;
+  color: #262626;
+  background: #FFFFFF;
+}
+.reveal div.input_area {
+  border: 0px;
+  background: #FFFFFF;
+}
+.reveal div.output_area pre {
+  color: #337ab7;
+  font-weight: 600;
+}
+.reveal .CodeMirror-sizer {
+  padding: 10px;
+  margin-bottom: 0 !important;
+  height: auto !important;
+  overflow: visible;
+}
+.reveal .cm-s-ipython.CodeMirror {
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+.reveal pre {
+  display: block;
+  position: relative;
+  width: 90%;
+  text-align: left;
+  font-size: 0.55em;
+  font-weight: 400;
+  font-family: 'Code Sans Pro', sans-serif;
+  line-height: 1.2em;
+  word-wrap: break-word;
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+}
